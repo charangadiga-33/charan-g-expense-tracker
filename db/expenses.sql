@@ -1,0 +1,1 @@
+CREATE TABLE expenses(id INT AUTO_INCREMENT PRIMARY KEY, date DATE, category VARCHAR(50), amount DECIMAL(10,2), note VARCHAR(255));
